@@ -1,7 +1,7 @@
 # Snake Game in Java
 
 ## Overview
-This project is a classic Snake game implemented in Java. The game features a graphical interface where the player controls a snake to collect apples, growing longer with each apple eaten. The game ends when the snake collides with itself or the game boundaries. 
+This project is a classic Snake game implemented in Java. The game features a graphical interface where the player controls a snake to collect apples, growing longer with each apple eaten. The game ends when the snake collides with itself or when out of bounds. 
 
 ## Features
 - Grid-based game mechanics
